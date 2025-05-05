@@ -1,3 +1,4 @@
 # first_repo
-This is my first repo.
-I am trying to learn github.
+<h1>This is my first repo.</h1>
+<br>
+I am trying to learn GitHub.
